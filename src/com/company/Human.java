@@ -13,4 +13,9 @@ public class Human {
         this.lastName = lastname;
 
     }
+
+    public String toString(){
+        return "My name is: "+firstName+" "+lastName;
+    }
+
 }

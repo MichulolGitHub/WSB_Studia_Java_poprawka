@@ -11,4 +11,8 @@ public class Car {
         this.producer = producer;
         this.year = year;
     }
+
+    public String toString(){
+        return "Car Model: "+model+" Car Producer: "+producer+" Car year: "+year;
+    }
 }

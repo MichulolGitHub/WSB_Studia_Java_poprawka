@@ -56,5 +56,7 @@ public void takeForAWalk(){
 
 }
 
-
+    public String toString(){
+        return "Its: "+species+" Current weight: "+weight;
+    }
 }

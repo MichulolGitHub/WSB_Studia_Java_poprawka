@@ -44,6 +44,12 @@ public class Main {
         System.out.println(me.car);
         System.out.println(car1);
         System.out.println(car2);
+        System.out.println("---------------------------------");
+        System.out.println("---------------------------------");
+
+        System.out.println(me);
+        System.out.println(me.car);
+        System.out.println(Dog);
 
 
     }
