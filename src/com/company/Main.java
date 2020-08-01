@@ -32,5 +32,11 @@ public class Main {
         Cat.takeForAWalk();
         Cat.takeForAWalk();
         Cat.feed();
+
+        System.out.println("---------------------------------");
+        Human me = new Human("Tom","XYZ");
+        Car car = new Car ("A7","Audi",2019);
+        me.car = car;
+
     }
 }

@@ -5,7 +5,6 @@ public class Animal {
 
     final String species;
     private Double weight;
-    final Boolean alive = true;
 
     public Animal(String species) {
         this.species = species;
